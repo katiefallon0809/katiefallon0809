@@ -4,9 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Katie Fallon
 ---------------------
 
-Recent Computer Science graduate with First Class Honours from Newcastle University, specializing in active learning, adversarial robustness, and neural networks for autonomous vehicles. With hands-on experience as an Innovation Consultant, I have successfully developed and delivered proof of concepts leveraging emerging technologies such as AI, VR, and automation to solve real-world problems. Proficient in Python, React Native, photogrammetry software, and Power Automate, I excel in both independent and collaborative settings. My background is enriched by diverse experiences, including entrepreneurial studies, market analysis, and leadership roles in both academic and volunteer capacities. Passionate about driving technological innovation and continuous learning, I am currently pursuing the Microsoft Certified: Azure AI Engineer Associate certification.
+Masters of Computer Science graduate with First Class Honours from Newcastle University, specializing in active learning, adversarial robustness, and neural networks for autonomous vehicles. 
 
-* 🌍  I'm based in Newcastle Upon Tyne/Manchester
+With hands-on experience as an Innovation Consultant, I successfully developed and delivered proof of concepts leveraging emerging technologies such as AI, VR, and automation to solve real-world problems. Proficient in Python, React Native, photogrammetry software, and Power Automate, I excel in both independent and collaborative settings. 
+
+My background is enriched by diverse experiences, including my current role as a performance analysist, and leadership roles in both academic and volunteer capacities. Passionate about driving technological innovation and continuous learning, I am currently pursuing the Datacamp Data Science Track.
+
+* 🌍  I'm based in Manchester
 * ✉️  You can contact me at [www.linkedin.com/in/katiefallon/](mailto:www.linkedin.com/in/katiefallon/)
 
 ### Skills
